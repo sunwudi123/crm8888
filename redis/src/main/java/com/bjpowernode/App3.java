@@ -8,6 +8,7 @@ import java.util.List;
 
 public class App3
 {
+    //12321321321
     public static void main( String[] args )
     {
         JedisPool pool=null;
